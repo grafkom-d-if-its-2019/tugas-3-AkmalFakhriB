@@ -140,4 +140,4 @@
         }
     };
     global.signals = signals;
-}(window || this));
+  }(window || this));
